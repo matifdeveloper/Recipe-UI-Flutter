@@ -1,6 +1,4 @@
-# recipe
-
-A new Flutter application.
+# Flutter Recipe App
 
 ## Getting Started
 
